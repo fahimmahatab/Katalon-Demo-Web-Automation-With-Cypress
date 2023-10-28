@@ -6,7 +6,7 @@ class LoginPage {
         cy.get('.sidebar-nav > :nth-child(4) > a').click();
         cy.get('#txt-username').type(username);
         cy.get('#txt-password').type(password);
-        cy.get('#btn-login').click();
+        cy.get('#btn-login').click().wait(2000);
     }
 
     invalidAssertion(){
