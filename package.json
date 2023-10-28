@@ -9,10 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "cypress": "^13.3.3"    
-  },
   "dependencies": {
+    "cypress": "^13.3.3"
+  },
+  "devDependencies": {
     "cypress-mochawesome-reporter": "^3.6.1"
   }
 }
