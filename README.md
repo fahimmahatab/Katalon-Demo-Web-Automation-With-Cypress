@@ -24,6 +24,7 @@
 - Clone this project & UNZIP it
 - Run Visual Studio Code. click file>Open folder 
 - click Visual Studio Code Terminal & follow that Command:
+- ``` nmp i ```
 - ``` npx cypress open ``` or ``` npx cypress run ```
 - Mochawesome Report: ``` npm i cypress-mochawesome-reporter ```
 
