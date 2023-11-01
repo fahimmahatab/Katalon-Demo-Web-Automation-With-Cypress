@@ -1,7 +1,7 @@
 # Katalon-Demo-Web-Automation-With-Cypress
 ## Katalon is a Healthcare Service.
 ## Automate Website Link: https://katalon-demo-cura.herokuapp.com/
-## Here I automate the following Steps:
+## Scenerio:
 1. Visit https://katalon-demo-cura.herokuapp.com/
 2. Login
 3. Make an appointment
